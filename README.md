@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://timlacault.dev/images/header.gif" alt="React Native Developer Banner">
+  <img src="https://timlacault.dev/images/header.gif" alt="React Native Developer Banner" height="300">
 </h1>
 
 <h1 align="center">Hi 👋, I'm Anunay Mishra and I'm a React Native Developer</h1>
