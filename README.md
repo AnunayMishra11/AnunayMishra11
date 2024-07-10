@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://timlacault.dev/images/header.gif" alt="React Native Developer Banner">
+</h1>
+
 <h1 align="center">Hi 👋, I'm Anunay Mishra and I'm a React Native Developer</h1>
 <h3 align="center">A passionate React Native Developer from New Delhi</h3>
 
