@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anunay Mishra</h1>
+<h1 align="center">Hi 👋, I'm Anunay Mishra and I'm a React Native Developer</h1>
 <h3 align="center">A passionate React Native Developer from New Delhi</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anunaymishra11" alt="anunaymishra11" /></a> </p>
