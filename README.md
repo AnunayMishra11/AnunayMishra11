@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/AnunayMishra11/Assets/main/Bann.jpeg" alt="React Native Developer Banner" height="300">
-</h1>
+// <h1 align="center">
+//  <img src="https://raw.githubusercontent.com/AnunayMishra11/Assets/main/Bann.jpeg" alt="React Native Developer Banner" height="300">
+// </h1>
 
 <h1 align="center">Hi 👋, I'm Anunay Mishra and I'm a React Native Developer</h1>
 <h3 align="center">A passionate React Native Developer from New Delhi</h3>
